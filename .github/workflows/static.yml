@@ -27,3 +27,9 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material 
       - run: mkdocs gh-deploy --force
+      # Add CNAME to the gh-pages branch
+      - run: |
+          echo "docs.libropen.com" > CNAME
+          git add CNAME
+          git commit -m "Add CNAME file for custom domain"
+          git push origin gh-pages --force
