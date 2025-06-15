@@ -5,8 +5,6 @@ theme:
   logo: assets/favicon.png
   favicon: assets/favicon.png
 repo_url: https://github.com/LibrOpen/libropen
-plugins:
-  - social
 extra:
   consent:
     title: Cookie consent
