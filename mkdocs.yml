@@ -2,12 +2,11 @@ site_name: LibrOpen - Documentation
 site_url: https://docs.libropen.com
 theme:
   name: material
+  logo: assets/favicon.png
+  favicon: assets/favicon.png
 repo_url: https://github.com/LibrOpen/libropen
 plugins:
   - social
-theme:
-  logo: assets/favicon.png
-  favicon: assets/favicon.png
 extra:
   consent:
     title: Cookie consent
