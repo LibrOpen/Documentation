@@ -223,6 +223,7 @@ If you need a higher rate limit, please contact the LibrOpen team to discuss you
 ## Error Handling
 
 The API uses standard HTTP status codes to indicate the success or failure of requests. Common status codes include:
+
 - `200 OK`: The request was successful.
 - `201 Created`: A new resource was successfully created.
 - `204 No Content`: The request was successful, but there is no content to return.
@@ -248,5 +249,7 @@ Please check this page before reporting any issues, as it may provide informatio
 ## Support
 
 If you have any questions or need assistance with the LibrOpen API, you can reach out to the support team via the following channels:
-- **Discord**: Join the LibrOpen community on Discord for real-time support and discussions.  (https://discord.gg/9U8KvnUev5)
-- **Email**: You can also send an email to contact@libropen.com
+
+- **Discord**: Join the LibrOpen community on Discord for real-time support and discussions.  (<https://discord.gg/9U8KvnUev5>)
+- 
+- **Email**: You can also send an email to <contact@libropen.com>
